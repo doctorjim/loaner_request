@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Loaner Request">6d829d772c3913007f447614c5c85b71</category>
+        <order>200</order>
+        <property display_value="x_snc_loaner_reque.return.remindtime" name="x_snc_loaner_reque.return.remindtime">032455b72c3913007f447614c5c85b64</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 20:02:51</sys_created_on>
+        <sys_id>07d4d9b72c3913007f447614c5c85bff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_loaner_reque.return.remindtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">8c1fef1f2cf113007f447614c5c85b5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">8c1fef1f2cf113007f447614c5c85b5d</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_07d4d9b72c3913007f447614c5c85bff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 20:03:35</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
